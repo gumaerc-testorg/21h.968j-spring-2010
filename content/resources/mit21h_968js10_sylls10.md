@@ -1,8 +1,12 @@
 ---
 content_type: resource
 description: This resource contains information related to syllabus archive for 2010.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/21h-968j-nature-environment-and-empire-spring-2010/59372de0f1ff2138eb775503d059adf0_MIT21H_968JS10_syllS10.pdf
+file: /media/courses/21h-968j-nature-environment-and-empire-spring-2010/59372de0f1ff2138eb775503d059adf0_MIT21H_968JS10_syllS10.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: Syllabus
+parent_type: CourseSection
 resourcetype: Document
 title: MIT21H_968JS10_syllS10.pdf
 uid: 59372de0-f1ff-2138-eb77-5503d059adf0
