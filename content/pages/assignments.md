@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides information on weekly discussion of assigned readings,
+  the research paper for the course, and a list of past paper topics.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection

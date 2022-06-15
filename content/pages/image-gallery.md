@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section contains photos of animals and plants in the Galapagos Islands
+  taken by Prof. Ritvo in 2001.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Image Gallery

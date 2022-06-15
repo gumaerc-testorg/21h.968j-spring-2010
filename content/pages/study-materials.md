@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides the list of required books for the course, additional
+  materials for each weekly topic, and further reading.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Study Materials
@@ -93,7 +95,7 @@ Barlow, Nora. "Darwin's Ornithological Notes." _Bulletin of the British Museum (
 
 [Charles Darwin's Beagle Diary](http://darwinbeagle.blogspot.com/)
 
-Prof. Ritvo's photos from the Galápagos Islands ([Image Gallery]({{< baseurl >}}/pages/image-gallery))
+Prof. Ritvo's photos from the Galápagos Islands ({{% resource_link 3bb3e132-7196-6241-08ee-d3a2f281aa01 "Image Gallery" %}})
 
 
 {{< tdclose >}}
