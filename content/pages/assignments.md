@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides information on weekly discussion of assigned readings,
+  the research paper for the course, and a list of past paper topics.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: 10641470-b1ee-16b9-048c-fc56bce72e5f
 ---

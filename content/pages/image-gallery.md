@@ -1,11 +1,15 @@
 ---
 content_type: page
+description: This section contains photos of animals and plants in the Galapagos Islands
+  taken by Prof. Ritvo in 2001.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Image Gallery
 uid: 3bb3e132-7196-6241-08ee-d3a2f281aa01
 ---
 
 These photos of animals and plants in the Galápagos Islands were taken by Prof. Ritvo in 2001.
-{{< image-gallery id="3bb3e132-7196-6241-08ee-d3a2f281aa01_nanogallery2" baseUrl="https://open-learning-course-data-rc.s3.amazonaws.com/21h-968j-nature-environment-and-empire-spring-2010/" >}}
+{{< image-gallery id="3bb3e132-7196-6241-08ee-d3a2f281aa01_nanogallery2" baseUrl="/courses/21h-968j-nature-environment-and-empire-spring-2010/" >}}
 {{< image-gallery-item href="dbda1bc9e26933229a9206b4cef3ca01_iguanas.jpg" data-ngdesc="Two iguanas on a smooth rock." text="Two iguanas on a smooth rock." >}}
 {{< image-gallery-item href="14f2a754c05195196890f1f48e3bb14f_rockyshore.jpg" data-ngdesc="A rocky slope plunges down to the ocean." text="A rocky slope plunges down to the ocean." >}}
 {{< image-gallery-item href="cc8f0d14754850f4a26988a2988bc3d7_ropylava.jpg" data-ngdesc="A large desolate field of ropy lava." text="A large desolate field of ropy lava." >}}
