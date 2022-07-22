@@ -10,6 +10,7 @@ image_metadata:
   credit: 'Credit: Courtesy of Harriet Ritvo. Used with permission.'
   image-alt: 6 large tortoises sit among green leaves and rocks behind a wall.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Image Gallery
 parent_type: CourseSection
@@ -19,4 +20,3 @@ title: tametortoise.jpg
 uid: 1d7d72af-fd7c-12de-1376-155c09da4469
 ---
 A group of captive Galapagos tortoises graze and sun themselves in a pen.
-

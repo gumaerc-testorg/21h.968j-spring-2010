@@ -9,6 +9,7 @@ image_metadata:
   image-alt: In the left foreground, a rocky hill with sparse patches of shrubs slopes
     to meet the water. In the background, other hills and outcrops are visible.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Image Gallery
 parent_type: CourseSection
@@ -18,4 +19,3 @@ title: rockyshore.jpg
 uid: 14f2a754-c051-9519-6890-f1f48e3bb14f
 ---
 A rocky slope plunges down to the ocean.
-

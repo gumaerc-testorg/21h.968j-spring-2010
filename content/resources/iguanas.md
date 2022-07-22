@@ -8,6 +8,7 @@ image_metadata:
   credit: 'Credit: Courtesy of Harriet Ritvo. Used with permission.'
   image-alt: Two gray iguanas, covered in sand, walk on a large smooth rock at night.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Image Gallery
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: iguanas.jpg
 uid: dbda1bc9-e269-3322-9a92-06b4cef3ca01
 ---
 Two iguanas on a smooth rock.
-

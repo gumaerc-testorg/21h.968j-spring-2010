@@ -11,6 +11,7 @@ image_metadata:
   image-alt: A dozen seals, ranging from light brown to gray, lie on a white sandy
     beach.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Image Gallery
 parent_type: CourseSection
@@ -20,4 +21,3 @@ title: seals.jpg
 uid: 119688f5-4c3f-e081-ad9e-c4817435bc52
 ---
 Galapagos fur seals lounge on the beach, including some mothers nursing their pups.
-

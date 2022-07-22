@@ -9,6 +9,7 @@ image_metadata:
   image-alt: Brown-black irregular rocks cover the ground; on the horizon, green vegetation
     is visible.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Image Gallery
 parent_type: CourseSection
@@ -18,4 +19,3 @@ title: ropylava.jpg
 uid: cc8f0d14-7548-50f4-a269-88a2988bc3d7
 ---
 A large desolate field of ropy lava.
-

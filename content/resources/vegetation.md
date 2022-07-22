@@ -9,6 +9,7 @@ image_metadata:
   image-alt: At the top of a gray-brown bush, light green leaves and yellow flowers
     grow.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Image Gallery
 parent_type: CourseSection
@@ -18,4 +19,3 @@ title: vegetation.jpg
 uid: f73b947a-6565-5e92-10bf-63bc8723b8b7
 ---
 Galapagos flora has adapted to the arid conditions there.
-
