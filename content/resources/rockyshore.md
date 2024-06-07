@@ -2,6 +2,7 @@
 content_type: resource
 description: A rocky slope plunges down to the ocean.
 file: /courses/21h-968j-nature-environment-and-empire-spring-2010/14f2a754c05195196890f1f48e3bb14f_rockyshore.jpg
+file_size: 34838
 file_type: image/jpeg
 image_metadata:
   caption: A rocky slope plunges down to the ocean.

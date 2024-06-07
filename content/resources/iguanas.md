@@ -2,6 +2,7 @@
 content_type: resource
 description: Two iguanas on a smooth rock.
 file: /courses/21h-968j-nature-environment-and-empire-spring-2010/dbda1bc9e26933229a9206b4cef3ca01_iguanas.jpg
+file_size: 64363
 file_type: image/jpeg
 image_metadata:
   caption: Two iguanas on a smooth rock.
