@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains information related to syllabus archive for 2010.
 file: /courses/21h-968j-nature-environment-and-empire-spring-2010/59372de0f1ff2138eb775503d059adf0_MIT21H_968JS10_syllS10.pdf
+file_size: 48477
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
