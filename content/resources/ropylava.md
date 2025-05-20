@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: A large desolate field of ropy lava.
-file: /ol-ocw-studio-app/courses/21h-968j-nature-environment-and-empire-spring-2010/cc8f0d14754850f4a26988a2988bc3d7_ropylava.jpg
+file: /courses/21h-968j-nature-environment-and-empire-spring-2010/cc8f0d14754850f4a26988a2988bc3d7_ropylava.jpg
 file_size: 33665
 file_type: image/jpeg
 image_metadata:

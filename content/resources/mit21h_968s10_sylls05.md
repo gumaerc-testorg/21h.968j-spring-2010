@@ -2,7 +2,7 @@
 content_type: resource
 description: "This resource contains information related to syllabus archive for 2005.\r\
   \n"
-file: /ol-ocw-studio-app/courses/21h-968j-nature-environment-and-empire-spring-2010/ac495ee1b974537def26cda9a83c641f_MIT21H_968S10_syllS05.pdf
+file: /courses/21h-968j-nature-environment-and-empire-spring-2010/ac495ee1b974537def26cda9a83c641f_MIT21H_968S10_syllS05.pdf
 file_size: 33276
 file_type: application/pdf
 learning_resource_types: []
