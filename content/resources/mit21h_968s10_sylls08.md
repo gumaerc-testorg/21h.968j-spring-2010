@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information related to syllabus archive for 2008.
-file: /ol-ocw-studio-app/courses/21h-968j-nature-environment-and-empire-spring-2010/b1c295c29d95ed3747b8bf5e2f7e9519_MIT21H_968S10_syllS08.pdf
+file: /courses/21h-968j-nature-environment-and-empire-spring-2010/b1c295c29d95ed3747b8bf5e2f7e9519_MIT21H_968S10_syllS08.pdf
 file_size: 44152
 file_type: application/pdf
 learning_resource_types: []
