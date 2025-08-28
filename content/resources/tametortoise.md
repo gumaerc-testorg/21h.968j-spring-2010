@@ -2,7 +2,7 @@
 content_type: resource
 description: A group of captive Galapagos tortoises graze and sun themselves in a
   pen.
-file: /courses/21h-968j-nature-environment-and-empire-spring-2010/1d7d72affd7c12de1376155c09da4469_tametortoise.jpg
+file: /ol-ocw-studio-app/courses/21h-968j-nature-environment-and-empire-spring-2010/1d7d72affd7c12de1376155c09da4469_tametortoise.jpg
 file_size: 65173
 file_type: image/jpeg
 image_metadata:
