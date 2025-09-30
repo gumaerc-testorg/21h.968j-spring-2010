@@ -16,7 +16,7 @@ Cook, James. *Journals of Captain Cook*. New York, NY: Penguin, 2000. ISBN: 9780
 
 Crais, Clifton, and Pamela Scully. *Sara Baartman and the Hottentot Venus: A Ghost Story and a Biography*. Princeton, NJ: Princeton University Press, 2010. ISBN: 9780691147963.
 
-Darwin, Charles. [*Voyage of the Beagle*](http://darwin-online.org.uk/EditorialIntroductions/Freeman_JournalofResearches.html). New York, NY: Modern Library, 2001. ISBN: 9780375756801.
+Darwin, Charles. {{% resource_link "f4da66e8-906f-47e4-a138-335104df27a5" "*Voyage of the Beagle*" %}}. New York, NY: Modern Library, 2001. ISBN: 9780375756801.
 
 Davis, Mike. *Late Victorian Holocausts: El Nino Famines and the Making of the Third World*. New York, NY: Verso, 2002. ISBN: 9781859843826.
 
@@ -36,7 +36,7 @@ Ritvo, Harriet. *The Platypus and The Mermaid: And Other Figments of the Classif
 
 Rudwick, Martin J. S. *Scenes from Deep Time: Early Pictorial Representations of the Prehistoric World*. Chicago, IL: University of Chicago Press, 1995. ISBN: 9780226731056.
 
-Wallace, Alfred Russel. *The Malay Archipelago*. ([Volume 1](http://www.gutenberg.org/ebooks/2530), [Volume 2](http://www.gutenberg.org/ebooks/2539)) Singapore: Periplus, 2008. ISBN: 9780794605636.
+Wallace, Alfred Russel. *The Malay Archipelago*. ({{% resource_link "f93bd3f3-c222-41d8-82a3-5ff571630aa2" "Volume 1" %}}, {{% resource_link "a3900b08-9a0d-4a17-84e4-f7c041b2486c" "Volume 2" %}}) Singapore: Periplus, 2008. ISBN: 9780794605636.
 
 {{< tableopen >}}{{< theadopen >}}{{< tropen >}}{{< thopen >}}
 WEEK #
@@ -50,11 +50,11 @@ MATERIALS
 Introduction
 {{< tdclose >}}{{< tdopen >}}
 
-[Ibo Queen Victoria Statue](http://www.postcolonialweb.org/nigeria/yourbavic.html), Pitt Rivers Museum, Oxford, England
+{{% resource_link "b7bc06d6-03d0-4b38-a038-75e4b46a82e6" "Ibo Queen Victoria Statue" %}}, Pitt Rivers Museum, Oxford, England
 
-[Tipu's Tiger](http://collections.vam.ac.uk/item/O61949/mechanical-organ-automaton-tippoos-tiger/), Victoria & Albert Museum, London, England
+{{% resource_link "c8ac2f19-3c72-4b83-b65b-3eb7da2b36c1" "Tipu's Tiger" %}}, Victoria & Albert Museum, London, England
 
-[Map of the British Empire in 1886](http://commons.wikimedia.org/wiki/File:Imperial_Federation,_Map_of_the_World_Showing_the_Extent_of_the_British_Empire_in_1886_%28levelled%29.jpg)
+{{% resource_link "346045e7-de42-4127-aa39-0f4ca6813c23" "Map of the British Empire in 1886" %}}
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 2
@@ -62,7 +62,7 @@ Introduction
 Darwin
 {{< tdclose >}}{{< tdopen >}}
 
-[*Voyage of the Beagle*](http://darwin-online.org.uk/EditorialIntroductions/Freeman_JournalofResearches.html), all
+{{% resource_link "f4da66e8-906f-47e4-a138-335104df27a5" "*Voyage of the Beagle*" %}}, all
 
 Sulloway, Frank. "Darwin and His Finches: The Evolution of a Legend." *Journal of the History of Biology* 15 (Spring 1982): 1-53.
 
@@ -70,7 +70,7 @@ Keynes, R. D. *Charles Darwin's Beagle Diary*. New York, NY: Cambridge Universit
 
 Barlow, Nora. "Darwin's Ornithological Notes." *Bulletin of the British Museum (Natural History) Historical Series* 2 (1963): 201-278, especially 260-266.
 
-[Charles Darwin's Beagle Diary](http://darwinbeagle.blogspot.com/)
+{{% resource_link "492a11ad-b4e5-447e-b9ec-405d4c5f7239" "Charles Darwin's Beagle Diary" %}}
 
 Prof. Ritvo's photos from the Galápagos Islands ({{% resource_link "3bb3e132-7196-6241-08ee-d3a2f281aa01" "Image Gallery" %}})
 
@@ -84,7 +84,7 @@ Deep time
 
 *Scenes from Deep Time*, all
 
-Chamberlain, John A., Jr. "[Benjamin Waterhouse Hawkins](http://academic.brooklyn.cuny.edu/geology/chamber/hawkins.html)." *Dinosaur Core Homepage*. Brooklyn College, CUNY.
+Chamberlain, John A., Jr. "{{% resource_link "778ae46e-42f8-494e-bd40-c39f6690f50a" "Benjamin Waterhouse Hawkins" %}}." *Dinosaur Core Homepage*. Brooklyn College, CUNY.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 4
@@ -100,9 +100,9 @@ Drayton, Richard. *Nature's Government: Science, Imperial Britain, and the "Impr
 
 *Environment and Empire*, Chapter 3, "The Fur Trade in Canada."
 
-[Royal Botanical Gardens, Kew, England](http://www.kew.org/)
+{{% resource_link "6a76f056-ac3b-44ae-af4d-4ab8f9ee7c9b" "Royal Botanical Gardens, Kew, England" %}}
 
-Gibson, Arthur C. "[Economically Important Plants](http://web.pdx.edu/~fischerw/proj_pub/humboldt_project/docs/0101-0125/0123a_Gibson_econ_impt_plants_intro.pdf)." University of California, Los Angeles.
+Gibson, Arthur C. "{{% resource_link "7b195eac-5123-499d-ad57-4ffa95e3bcb3" "Economically Important Plants" %}}." University of California, Los Angeles.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 5
@@ -126,11 +126,11 @@ Captain Cook
 
 *Journals of Captain Cook*, all
 
-[South Seas: Voyaging and Cross-Cultural Encounters in the Pacific (1760-1800)](http://southseas.nla.gov.au/)
+{{% resource_link "4256c967-1193-401d-8a91-e62b0092208a" "South Seas: Voyaging and Cross-Cultural Encounters in the Pacific (1760-1800)" %}}
 
-[Cook's Pacific Encounters: Cook-Forster Collection](http://www.nma.gov.au/cook/)
+{{% resource_link "db53c4a1-fa22-4383-9803-96a7cf337b56" "Cook's Pacific Encounters: Cook-Forster Collection" %}}
 
-[Secret Instructions to Lieutenant Cook, 30 July 1786](http://www.foundingdocs.gov.au/item-did-34.html)
+{{% resource_link "a657e4cf-d468-4070-8905-ee1bb88cd081" "Secret Instructions to Lieutenant Cook, 30 July 1786" %}}
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 7
@@ -145,7 +145,7 @@ People
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 8
 {{< tdclose >}}{{< tdopen >}}
-Field trip to [Peabody Museum of Archaeology and Ethnology](http://www.peabody.harvard.edu/), Harvard University
+Field trip to {{% resource_link "619708fb-12d5-4f17-ab25-8a84d57569f6" "Peabody Museum of Archaeology and Ethnology" %}}, Harvard University
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
@@ -178,17 +178,17 @@ McNeill, J. R. "Revolutionary Mosquitoes of the Atlantic World: Malaria and Inde
 Alfred Russel Wallace
 {{< tdclose >}}{{< tdopen >}}
 
-*The Malay Archipelago*, all. ([Volume 1](http://www.gutenberg.org/ebooks/2530), [Volume 2](http://www.gutenberg.org/ebooks/2539))
+*The Malay Archipelago*, all. ({{% resource_link "f93bd3f3-c222-41d8-82a3-5ff571630aa2" "Volume 1" %}}, {{% resource_link "a3900b08-9a0d-4a17-84e4-f7c041b2486c" "Volume 2" %}})
 
-[The Alfred Russel Wallace Page](http://people.wku.edu/charles.smith/index1.htm)
+{{% resource_link "e0cc304a-aca5-4208-a0a3-02f6257f80de" "The Alfred Russel Wallace Page" %}}
 
-[The Natural History Museum's Wallace Collection](http://www.nhm.ac.uk/nature-online/collections-at-the-museum/wallace-collection/index.jsp)
+{{% resource_link "9847cc6a-1cca-4a78-a231-527236ce2823" "The Natural History Museum's Wallace Collection" %}}
 
-[The Wallace Fund](http://wallacefund.info/)
+{{% resource_link "1e6b8904-16e8-4c4d-9d8d-3a89ae2a017b" "The Wallace Fund" %}}
 
-[Map of the East Indies, 1906](http://etc.usf.edu/maps/pages/1400/1431/1431.htm)
+{{% resource_link "c52a37cd-4e30-41ba-816a-2d901269fba2" "Map of the East Indies, 1906" %}}
 
-[Map showing the Wallace Line](http://commons.wikimedia.org/wiki/File:Map_of_Sunda_and_Sahul.png)
+{{% resource_link "d2bd58b0-0cc5-4e82-bebf-29b80bb9187f" "Map showing the Wallace Line" %}}
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 12
