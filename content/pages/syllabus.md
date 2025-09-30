@@ -41,7 +41,7 @@ Cook, James. _Journals of Captain Cook_. New York, NY: Penguin, 2000. ISBN: 9780
 
 Crais, Clifton, and Pamela Scully. _Sara Baartman and the Hottentot Venus: A Ghost Story and a Biography_. Princeton, NJ: Princeton University Press, 2010. ISBN: 9780691147963.
 
-Darwin, Charles. [_Voyage of the Beagle_](http://darwin-online.org.uk/EditorialIntroductions/Freeman_JournalofResearches.html). New York, NY: Modern Library, 2001. ISBN: 9780375756801.
+Darwin, Charles. {{% resource_link "f4da66e8-906f-47e4-a138-335104df27a5" "_Voyage of the Beagle_" %}}. New York, NY: Modern Library, 2001. ISBN: 9780375756801.
 
 Davis, Mike. _Late Victorian Holocausts: El Nino Famines and the Making of the Third World_. New York, NY: Verso, 2002. ISBN: 9781859843826.
 
@@ -61,7 +61,7 @@ Ritvo, Harriet. _The Platypus and The Mermaid: And Other Figments of the Classif
 
 Rudwick, Martin J. S. _Scenes from Deep Time: Early Pictorial Representations of the Prehistoric World_. Chicago, IL: University of Chicago Press, 1995. ISBN: 9780226731056.
 
-Wallace, Alfred Russel. _The Malay Archipelago_. ([Volume 1](http://www.gutenberg.org/ebooks/2530), [Volume 2](http://www.gutenberg.org/ebooks/2539)) Singapore: Periplus, 2008. ISBN: 9780794605636.
+Wallace, Alfred Russel. _The Malay Archipelago_. ({{% resource_link "f93bd3f3-c222-41d8-82a3-5ff571630aa2" "Volume 1" %}}, {{% resource_link "a3900b08-9a0d-4a17-84e4-f7c041b2486c" "Volume 2" %}}) Singapore: Periplus, 2008. ISBN: 9780794605636.
 
 Assignments
 -----------
